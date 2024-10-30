@@ -1,0 +1,19 @@
+Primary Color:
+
+Sky Blue (#1E90FF): Reflects the aviation theme and gives a modern, clean feel.
+Secondary Colors:
+
+Steel Gray (#2F4F4F): Adds a sense of seriousness and professionalism.
+Jet Black (#000000): Works well for dark mode contrasts.
+Accent Colors:
+
+Gold (#FFD700): For highlighting badges, levels, or important progress metrics.
+Lime Green (#32CD32): For success indicators such as correct answers or completed tasks.
+Background Colors:
+
+Light Gray (#F5F5F5): Neutral, soft background for content areas.
+Dark Slate Blue (#483D8B): Suitable for dark mode or header elements.
+Text Colors:
+
+Charcoal (#333333): Clear, readable text for headings and body text in light mode.
+White (#FFFFFF): Clean contrast for dark mode text.
