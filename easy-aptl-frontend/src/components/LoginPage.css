@@ -1,0 +1,122 @@
+/* src/components/LoginPage.css */
+
+.login-container {
+    display: flex;
+    height: 100vh;
+    background-color: #f0f4ff;
+  }
+  
+  .login-left {
+    flex: 1;
+    background-color: #f3e0a9;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .logo {
+    font-size: 3rem;
+    color: #5a5a5a;
+    font-weight: 600;
+  }
+  
+  .rocket-image {
+    font-size: 4rem;
+    margin: 1rem 0;
+  }
+  
+  .supersonic-banner {
+    background-color: #ffc107;
+    border-radius: 20px;
+    padding: 1rem;
+    margin-top: 1rem;
+    color: #5a5a5a;
+    text-align: center;
+    max-width: 80%;
+  }
+  
+  .login-right {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+  
+  .login-form {
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .login-input {
+    width: 100%;
+    padding: 0.75rem;
+    margin: 0.5rem 0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .sign-in-button {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: #ffc107;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .forgot-password {
+    display: block;
+    text-align: right;
+    margin: 0.5rem 0;
+    color: #5a5a5a;
+    text-decoration: none;
+  }
+  
+  .alternate-sign-in {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 300px;
+    color: #5a5a5a;
+    margin: 1rem 0;
+  }
+  
+  .alternate-sign-in hr {
+    flex: 1;
+    border: none;
+    border-top: 1px solid #ccc;
+  }
+  
+  .social-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .social-button {
+    padding: 0.75rem;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    color: #fff;
+  }
+  
+  .facebook { background-color: #3b5998; }
+  .google { background-color: #db4437; }
+  .apple { background-color: #000; }
+  
+  .sign-up-link {
+    color: #ffc107;
+    text-decoration: none;
+  }
+  
